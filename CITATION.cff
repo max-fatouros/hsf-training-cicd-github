@@ -26,9 +26,9 @@ authors:
   - given-names: Laura
     family-names: Marqués
     orcid: https://orcid.org/0000-0002-3593-5557
-abstract: >-  
+abstract: |-  
   This learning module, developed by the High Energy Physics Software Foundation (HSF), explores how to build a CI/CD workflow, guiding participants through the development of automated processes using GitHub Actions.  
-  
+
   After completing this module, participants will be able to:
 
   - Write scripts with appropriate exit codes.
@@ -49,4 +49,6 @@ keywords:
 repository-code: https://github.com/hsf-training/hsf-training-cicd-github
 url: https://hsf-training.github.io/hsf-training-cicd-github/
 doi: 10.5281/zenodo.22016969
-license: CC-BY-4.0
+license:
+  - CC-BY-4.0
+  - MIT
