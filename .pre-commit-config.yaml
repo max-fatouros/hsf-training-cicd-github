@@ -21,6 +21,7 @@ repos:
       - id: end-of-file-fixer
         files: ^(_episodes|README.md|setup.md)
       - id: mixed-line-ending
+        files: ^(_episodes|code|README.md|setup.md)
       - id: trailing-whitespace
         files: ^(_episodes|code|README.md|setup.md)
 
