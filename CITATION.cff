@@ -7,7 +7,7 @@ message: >-
 authors:
   - given-names: Emery
     family-names: Nibigira
-    orcid: 
+    orcid: https://orcid.org/0000-0001-5821-291X
   - given-names: Saransh
     family-names: Chopra
     orcid: https://orcid.org/0000-0003-3046-7675
@@ -16,99 +16,36 @@ authors:
     orcid: https://orcid.org/0000-0003-2631-9696
   - given-names: Florian
     family-names: Eble
-    orcid: 
-  - given-names: Clemens
-    family-names: Lange
-    orcid: https://orcid.org/0000-0002-3632-3157
+    orcid: https://orcid.org/0009-0002-0638-3447
   - given-names: Max
     family-names: Fatouros
     orcid: https://orcid.org/0000-0002-7438-652X
+  - given-names: Clemens
+    family-names: Lange
+    orcid: https://orcid.org/0000-0002-3632-3157
   - given-names: Laura
     family-names: Marqués
     orcid: https://orcid.org/0000-0002-3593-5557
-   - given-names: Raniere
-    family-names: Silva
-    orcid:
-  - given-names: François
-    family-names: Michonneau
-    orcid: https://orcid.org/0000-0002-9092-966X
-  - given-names: Maxim
-    family-names: Belkin
-    orcid:
-  - given-names: Giordon
-    family-names: Stark
-    orcid: https://orcid.org/0000-0001-6616-3433
-  - given-names: Kilian
-    family-names: Lieret
-    orcid: https://orcid.org/0000-0003-2792-7511
-  - given-names: W. Trevor
-    family-names: King
-    orcid:
-  - given-names: Samuel
-    family-names: Meehan
-    orcid:
-  - given-names: Zhian N.
-    family-names: Kamvar
-    orcid: https://orcid.org/0000-0003-1458-7108
-  - given-names: Abby Cabunoc
-    family-names: Mayes
-    orcid: https://orcid.org/0000-0003-4959-3049
-  - given-names: Katrin
-    family-names: Leinweber
-    orcid:
-  - given-names: Aleksandra
-    family-names: Nenadic
-    orcid: https://orcid.org/0000-0002-2269-3894
-  - given-names: Toby
-    family-names: Hodges
-    orcid:
-  - given-names: Erin
-    family-names: Becker
-    orcid:
-  - given-names: Carol
-    family-names: Willing
-    orcid: https://orcid.org/0000-0002-9817-8485
-  - given-names: Maneesha
-    family-names: Sane
-    orcid:
-  - given-names: Gabriel A.
-    family-names: Devenyi
-    orcid: https://orcid.org/0000-0002-7766-1187
-  - given-names: João
-    family-names: Rodrigues
-    orcid:
-  - given-names: Piotr
-    family-names: Banaszkiewicz
-    orcid:
-  - given-names: Tracy
-    family-names: Teal
-    orcid:
-  - given-names: Lex
-    family-names: Nederbragt
-    orcid:
-  - given-names: Jonah
-    family-names: Duckles
-    orcid:
-  - given-names: Aman
-    family-names: Goel
-    orcid: https://orcid.org/0000-0003-3567-2096
-  - given-names: Marianne
-    family-names: Corvellec
-    orcid:
-  - given-names: Rayna M.
-    family-names: Harris
-    orcid:
-  - given-names: Jeramia
-    family-names: Ory
-    orcid: https://orcid.org/0000-0002-5867-007X
-  - given-names: Ethan
-    family-names: White
-    orcid:
-  - given-names: Brian
-    family-names: Ballsun-Stanton
-    orcid: https://orcid.org/0000-0003-4932-7912
-abstract: >-
-  Explore how to build a CI/CD workflow, guiding participants through the development of automated processes using GitHub Actions.      
+abstract: >-  
+  This learning module, developed by the High Energy Physics Software Foundation (HSF), explores how to build a CI/CD workflow, guiding participants through the development of automated processes using GitHub Actions.  
+  
+  After completing this module, participants will be able to:
+
+  - Write scripts with appropriate exit codes.
+  - Build flexible and reusable CI/CD workflows using GitHub Actions.
+  - Configure and manage workflow jobs using YAML.
+  - Understand how GitHub Actions runners execute jobs and access repository code.
+  - Use matrices, dependencies, and artifacts to create efficient and scalable workflows.
+  - Protect secrets and sensitive information while allowing workflows to run securely.
+keywords:
+  - "Reproducible analyses"
+  - "Particle Physics"
+  - "GitHub Actions"
+  - "Continuous Integration"
+  - "Continuous Deployment"
+  - "CI/CD"
+  - "Workflow Automation"
+  - "Secrets Management"
 repository-code: https://github.com/hsf-training/hsf-training-cicd-github
 url: https://hsf-training.github.io/hsf-training-cicd-github/
 doi: 10.5281/zenodo.22016969
