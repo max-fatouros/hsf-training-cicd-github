@@ -58,7 +58,7 @@ To know whether your Python has `pytest`, just run `python -c "import pytest"`. 
     git remote -v # -v stands for verbose
     ```
 
-    ```
+    ```text
     origin	git@github.com:hsf-training/hsf-training-cms-analysis.git (fetch)
     origin	git@github.com:hsf-training/hsf-training-cms-analysis.git (push)
     ```

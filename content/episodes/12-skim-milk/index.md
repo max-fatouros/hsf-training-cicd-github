@@ -208,7 +208,7 @@ We will deal with that in the next lesson.
 Our executable takes 5 arguments: input (remote data), output (processed data), cross-section, integrated luminosity, and scale.
 
 Let's consider the following value:
-```
+```yaml
 input: root://eospublic.cern.ch//eos/root-eos/HiggsTauTauReduced/GluGluToHToTauTau.root
 output: skim_ggH.root
 cross_section: 19.6

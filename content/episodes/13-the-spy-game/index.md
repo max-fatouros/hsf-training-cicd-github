@@ -67,7 +67,7 @@ skim:
 In the previous lesson, we saw that the executable `skim` takes 5 arguments: input (remote data), output (processed data), cross-section, integrated luminosity, and scale.
 
 Let's consider the following values:
-```
+```yaml
 input: root://eosuser.cern.ch//eos/user/g/gstark/AwesomeWorkshopFeb2020/GluGluToHToTauTau.root
 output: skim_ggH.root
 cross_section: 19.6
